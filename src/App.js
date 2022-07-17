@@ -10,14 +10,14 @@ function App() {
         <div class="container">
           <div id="weather" class="weather-container"></div>
           <small>
-            <a
-              href="https://github.com/wecodeschool/react-weather"
-              target="_blank"
-            >
+            <a href="https://github.com/mgdiana/weather-react" target="_blank">
               Open-source code
             </a>
-            , by Maria Giovanna Diana hosted on
-            <a href="https://shecodes.io/"> Netlify</a>
+            by Maria Giovanna Diana hosted on
+            <a href="https://shecodes.io/" class="">
+              {" "}
+              Netlify
+            </a>
           </small>
         </div>
       </header>

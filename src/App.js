@@ -14,10 +14,7 @@ function App() {
               Open-source code
             </a>
             by Maria Giovanna Diana hosted on
-            <a href="https://shecodes.io/" class="">
-              {" "}
-              Netlify
-            </a>
+            <a href="https://chipper-sprinkles-af5d4b.netlify.app"> Netlify</a>
           </small>
         </div>
       </header>
